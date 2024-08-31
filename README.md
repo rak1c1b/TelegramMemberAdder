@@ -40,7 +40,7 @@ You will need to obtain your API ID and API Hash from [my.telegram.org](https://
 1. **Run the script:**
 
 ```bash
-python python3.12 app.py
+python3.12 app.py
 ```
 
 2. **Provide the required inputs:**
