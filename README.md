@@ -1,3 +1,4 @@
+![Screenshot (148)](https://github.com/user-attachments/assets/4ac0b99e-f8e0-40b0-9aed-78a6b172f67f)
 ---
 
 # Telegram Member Scraper & Adder Bot
